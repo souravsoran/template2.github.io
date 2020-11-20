@@ -118,7 +118,7 @@ header .nav ul li a:hover::before{
 }
 .home{
     height: 100vh;
-    background-image: url('images/img1.jpg');
+    background-image: url('img1.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     padding: 15px;
